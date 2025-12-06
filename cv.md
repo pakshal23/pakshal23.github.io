@@ -1,15 +1,13 @@
 ---
-layout: null
+layout: page
+title: "CV"
 permalink: /cv/
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=/assets/cv.pdf">
-    <link rel="canonical" href="/assets/cv.pdf">
-  </head>
-  <body>
-    <p>Please <a href="/assets/cv.pdf">click here to view my CV</a>.</p>
-  </body>
-</html>
+<script>
+  window.location.href = "/assets/cv.pdf";
+</script>
+
+<p>
+  Please click <a href="/assets/cv.pdf">here</a> to view my CV.
+</p>
