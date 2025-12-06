@@ -6,5 +6,5 @@ theme: minima
 markdown: kramdown
 
 header_pages:
-  - cv.md
+  - cv.html
   - publications.md
