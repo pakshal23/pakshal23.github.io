@@ -1,11 +1,15 @@
 ---
-layout: page
-title: "CV"
+layout: null
 permalink: /cv/
 ---
 
-<object data="/assets/cv.pdf" type="application/pdf" width="100%" height="900px">
-  <p>
-    You can <a href="/assets/cv.pdf">download my CV here</a>.
-  </p>
-</object>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/assets/cv.pdf">
+    <link rel="canonical" href="/assets/cv.pdf">
+  </head>
+  <body>
+    <p>Please <a href="/assets/cv.pdf">click here to view my CV</a>.</p>
+  </body>
+</html>
