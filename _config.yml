@@ -4,3 +4,7 @@ email:
 
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - cv.md
+  - publications.md
