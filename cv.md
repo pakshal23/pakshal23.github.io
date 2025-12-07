@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/cv.pdf
+permalink: /assets/CV_Pakshal_Bohra.pdf
 ---
 
-[2-page CV]({{ site.url }}/assets/cv.pdf)
+[2-page CV]({{ site.url }}/assets/CV_Pakshal_Bohra.pdf)
