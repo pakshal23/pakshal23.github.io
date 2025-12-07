@@ -1,59 +1,66 @@
+<footer class="site-footer">
+  <!-- Font Awesome for icons -->
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
   <div class="wrapper">
-    <div style="display: flex;
-                flex-wrap: wrap;
-                gap: 8px;
-                justify-content: space-between;
-                align-items: flex-start;
-                padding: 24px 0 32px;
-                font-size: 0.9rem;">
+    <div style="
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 12px;
+        padding: 24px 0 32px;
+        font-size: 0.9rem;
+        text-align: left;
+    ">
 
-      <div style="flex: 1 1 260px; margin-right: 16px;">
+      <!-- Left column: name + emails -->
+      <div style="min-width: 230px; max-width: 320px;">
         <div style="font-weight: 600; color: #777; margin-bottom: 8px;">
           {{ site.title }}
         </div>
 
         <div>
-          <a href="mailto:pakshalbohra@gmail.com"
+          <a href="mailto:first.email@example.com"
              style="display:block; margin-bottom:4px;">
-            pakshalbohra@gmail.com
+            first.email@example.com
           </a>
-          <a href="mailto:pakshal.bohra@distran.ch"
+
+          <a href="mailto:second.email@example.com"
              style="display:block;">
-            pakshal.bohra@distran.ch
+            second.email@example.com
           </a>
         </div>
       </div>
 
       <!-- Right column: LinkedIn / Scholar / GitHub -->
-      <div style="flex: 1 1 240px;">
+      <div style="min-width: 230px; max-width: 320px;">
 
         <div style="display:flex; align-items:center; margin-bottom:8px;">
           <i class="fa-brands fa-linkedin-in"
              style="width:20px; text-align:center; margin-right:8px;"></i>
-          <a href="https://www.linkedin.com/in/pakshalbohra23"
+          <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"
              target="_blank" rel="noopener noreferrer">
-            LinkedIn
+            Your LinkedIn Name
           </a>
         </div>
 
         <div style="display:flex; align-items:center; margin-bottom:8px;">
           <i class="fa-solid fa-graduation-cap"
              style="width:20px; text-align:center; margin-right:8px;"></i>
-          <a href="https://scholar.google.com/citations?user=lJVrRV4AAAAJ"
+          <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
              target="_blank" rel="noopener noreferrer">
-            Google Scholar
+            Your Scholar Name
           </a>
         </div>
 
         <div style="display:flex; align-items:center;">
           <i class="fa-brands fa-github"
              style="width:20px; text-align:center; margin-right:8px;"></i>
-          <a href="https://github.com/pakshal23"
+          <a href="https://github.com/YOUR_GITHUB_USERNAME"
              target="_blank" rel="noopener noreferrer">
-            GitHub
+            YOUR_GITHUB_USERNAME
           </a>
         </div>
 
