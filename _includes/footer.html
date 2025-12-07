@@ -1,32 +1,67 @@
 <footer class="site-footer">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-  <div class="wrapper">
+  <div style="max-width: 900px;
+              margin: 0 auto;
+              padding: 24px 16px 32px;
+              display: flex;
+              flex-wrap: wrap;
+              gap: 24px;
+              justify-content: space-between;
+              font-size: 0.9rem;">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li>
-        </ul>
+    <div style="flex: 1 1 250px;">
+      <div style="font-weight: 600; color: #777; margin-bottom: 8px;">
+        {{ site.title }}
       </div>
-      <div class="footer-col footer-col-1">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-          {% if site.linkedin_username %}
-          <li>
-            {% include icon-linkedin.html username=site.linkedin_username full_name=site.title %}
-          </li>
-          {% endif %}
-        </ul>
+
+      <div>
+        <a href="mailto:pakshalbohra@gmail.com"
+           style="display:block; color:inherit; text-decoration:none; margin-bottom:4px;">
+          pakshalbohra@gmail.com
+        </a>
+        <a href="mailto:pakshal.bohra@distran.ch"
+           style="display:block; color:inherit; text-decoration:none;">
+          pakshal.bohra@distran.ch
+        </a>
       </div>
-      
     </div>
 
-  </div>
+    <!-- Right column: LinkedIn / Google Scholar / GitHub -->
+    <div style="flex: 1 1 250px;">
 
+      <div style="display:flex; align-items:center; margin-bottom:8px;">
+        <i class="fa-brands fa-linkedin-in"
+           style="width:20px; text-align:center; margin-right:8px;"></i>
+        <a href="https://www.linkedin.com/in/pakshalbohra23"
+           target="_blank" rel="noopener noreferrer"
+           style="text-decoration:none;">
+          LinkedIn
+        </a>
+      </div>
+
+      <div style="display:flex; align-items:center; margin-bottom:8px;">
+        <!-- Font Awesome doesn't have a Scholar icon, so use a cap as a proxy -->
+        <i class="fa-solid fa-graduation-cap"
+           style="width:20px; text-align:center; margin-right:8px;"></i>
+        <a href="https://scholar.google.com/citations?user=lJVrRV4AAAAJ"
+           target="_blank" rel="noopener noreferrer"
+           style="text-decoration:none;">
+          Google Scholar
+        </a>
+      </div>
+
+      <div style="display:flex; align-items:center;">
+        <i class="fa-brands fa-github"
+           style="width:20px; text-align:center; margin-right:8px;"></i>
+        <a href="https://github.com/pakshal23"
+           target="_blank" rel="noopener noreferrer"
+           style="text-decoration:none;">
+          GitHub
+        </a>
+      </div>
+
+    </div>
+  </div>
 </footer>
