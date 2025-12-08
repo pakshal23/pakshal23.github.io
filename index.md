@@ -11,7 +11,7 @@ Currently, I work as a Computational Software Engineer at [Distran](https://dist
 I completed my PhD in Electrical Engineering in 2024 at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) under the supervision of [Prof. Michael Unser](https://bigwww.epfl.ch/unser/). My research was aimed at the development of novel deep learning architectures and algorithms for computational imaging. Before EPFL, I received my Bachelors and Masters dual degree in Electrical Engineering in 2018 from the [Indian Institute of Technology Bombay (IITB)](https://www.iitb.ac.in/).
 
 
-<h3 style="font-weight: bold; margin-bottom: 10px;">Updates</h3>
+<h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Updates</h3>
 
 <div style="height: 200px; overflow-y: auto; font-size: 0.9em;">
   <table style="width: 100%; border-collapse: collapse; border: 1px solid #e1e4e8; margin: 0;">
