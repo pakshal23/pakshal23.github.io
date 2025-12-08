@@ -23,7 +23,7 @@ I am a
           2025-01-05
         </td>
         <td style="padding:6px 0; vertical-align:top;">
-          Started building my personal website using Jekyll + Minima.
+          WIP.
         </td>
       </tr>
     </tbody>
