@@ -17,16 +17,24 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
   <table style="width: 100%; border-collapse: collapse; border: 1px solid #e1e4e8; margin: 0;">
     <tbody>
       <tr>
-        <td style="width: 100px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Dec 2025</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">Building my personal website.</td>
-      </tr>
-      <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">Joined Distran as a Computational Software Engineer.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I joined Distran as a Computational Software Engineer.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Jun 2024</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">Successfully defended my PhD thesis at EPFL.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I successfully defended my PhD thesis.</td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Sep 2019</strong></td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I passed my PhD candidacy exam.</td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Sep 2018</strong></td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I joined Prof. Michael Unser's Biomedical Imaging Group at EPFL for my PhD.</td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2018</strong></td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I graduated from IIT Bombay.</td>
       </tr>
     </tbody>
   </table>
