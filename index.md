@@ -18,15 +18,15 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
     <tbody>
       <tr>
         <td style="width: 100px; vertical-align: top; padding: 4px 8px 4px 0; border: none;"><strong>Dec 2025</strong></td>
-        <td style="padding: 4px 0; border: none;">Building my personal website.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">Building my personal website.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 4px 8px 4px 0; border: none;"><strong>Aug 2024</strong></td>
-        <td style="padding: 4px 0; border: none;">Joined Distran as a Computational Software Engineer.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">Joined Distran as a Computational Software Engineer.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 4px 8px 4px 0; border: none;"><strong>Jun 2024</strong></td>
-        <td style="padding: 4px 0; border: none;">Successfully defended my PhD thesis at EPFL.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">Successfully defended my PhD thesis at EPFL.</td>
       </tr>
     </tbody>
   </table>
