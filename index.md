@@ -14,13 +14,10 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
 #### Updates
 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 10px; border-radius: 4px;">
-
 | Date | News |
 | :--- | :--- |
 | **Aug 2024** | Joined Distran as a Computational Software Engineer. |
 | **Jun 2024** | Successfully defended my PhD thesis at EPFL. |
-| **Jan 2024** | Paper accepted at IEEE Transactions on Computational Imaging. |
 | **Sep 2023** | Presented a tutorial at the IEEE ISBI conference. |
 | Jun 2023 | Published a new paper on Dynamic Fourier Ptychography. |
-
 </div>
