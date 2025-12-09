@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Research
 permalink: /research/
 ---
 My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on the development of ML methods based on novel robust neural network architectures and deep generative models for computational imaging (e.g., MRI, CT, Diffraction Tomography, Fourier Ptychography). Now, at Distran, I am involved in research related to the development of new ML and signal processing methods to improve the performance and scope of their acoustic camera. Also, these days, outside of work, I am interested in learning more about flow/diffusion models as well as multimodal model architectures.
