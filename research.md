@@ -56,14 +56,14 @@ My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on t
 
 <h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Talks</h3>
 
-* [Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks](/assets/ISBI_2023_tutorial.pdf)
+* [Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks](https://drive.google.com/file/d/18gu3YnOOftegnvr-0Tb8l4zAKwWiq5-P/view)
   Tutorial, IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Republic of Colombia, April 2023
 
-* [Learning Activation Functions in Neural Networks](/assets/Deepsplines_ENSLyon.pdf)
+* [Learning Activation Functions in Neural Networks](https://drive.google.com/file/d/1eaQHP517dZVPtqwIG8nnC4vArvyKosep/view)
   Machine Learning and Signal Processing (MLSP) Seminar, ENS Lyon, March 2023
 
-* [Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)](/assets/CryoGAN.pdf)
+* [Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)](https://drive.google.com/file/d/1Kdr0fHJTnHbdcEg3PjgVpGKdtmAf62DN/view)
   SIAM Conference on Imaging Science, Virtual, March 2022
 
-* [Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks](/assets/SSP_SIAM.pdf)
+* [Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks](https://drive.google.com/file/d/1GlklWostumSOvj2Q6OS8thM71yLFrGih/view)
   Minitutorial, SIAM Conference on Imaging Science, Virtual, March 2022
