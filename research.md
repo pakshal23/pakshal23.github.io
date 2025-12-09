@@ -48,14 +48,16 @@ My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on t
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 15px;">Conference Abstracts</h4>
 
-* M. Unser, <b>P. Bohra</b>, [Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks](https://bigwww.epfl.ch/publications/unser2303.html), Tutorial, Twentieth IEEE International Symposium on Biomedical Imaging (ISBI'23), Cartagena de Indias, Republic of Colombia, April 18-21, 2023.
-
 * M. Unser, S. Ducotterd, <b>P. Bohra</b>, [Efficient Lip-1 Spline Networks for Convergent PnP Image Reconstruction](https://bigwww.epfl.ch/publications/unser2304.html), Proceedings of the International BASP Frontiers Conference (BASP'23), Villars-sur-Ollon, Swiss Confederation, February 5-10, 2023, pp. 18.
 
 * S. Neumayer, <b>P. Bohra</b>, S. Ducotterd, A. Goujon, D. Perdios, M. Unser, [Analysis of 1-Lipschitz Neural Networks](https://bigwww.epfl.ch/publications/neumayer2202.html), Proceedings of the 2022 Oberwolfach Workshop on Mathematical Imaging and Surface Processing (OWMISP'22), Oberwolfach, Federal Republic of Germany, August 21-27, 2022, vol. 2022/38, pp. 2257–2259.
 
-* M. Unser, <b>P. Bohra</b>, [Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)](https://bigwww.epfl.ch/publications/unser2203.html), SIAM Conference on Imaging Science (IS'22), Virtual, March 21-25, 2022, MS96, Single-Particle Cryo-Electron Microscopy Recent Advances and Next Challenges - Part II of III.
-
-* <b>P. Bohra</b>, [Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks—Part II](https://bigwww.epfl.ch/publications/bohra2202.html), SIAM Conference on Imaging Science (IS'22), Virtual, March 21-25, 2022, MT2 - Part II of II.
-
 * M. Unser, <b>P. Bohra</b>, J. Campos, H. Gupta, S. Aziznejad, [Deep Spline Neural Networks](https://bigwww.epfl.ch/publications/unser2005.html), Online Seminars on Numerical Approximation and Applications (OSNA2'20), Passau, Federal Republic of Germany, Virtual, November 9-December 3, 2020.
+
+<h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Talks</h3>
+
+* ISBI
+  Tutorial
+  IEEE
+
+* ICASSP
