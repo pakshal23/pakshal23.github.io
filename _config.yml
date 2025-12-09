@@ -7,3 +7,4 @@ markdown: kramdown
 header_pages:
   - cv.md
   - research.md
+  - teaching.md
