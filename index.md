@@ -26,15 +26,15 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Apr 2023</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on "Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks" at [IEEE ISBI 2023](https://biomedicalimaging.org/2023/).</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on "Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks" at <a href="https://biomedicalimaging.org/2023/">IEEE ISBI 2023</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2023</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Learning Activation Functions in Neural Networks" at [MLSP, ENS Lyon](https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing).</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Learning Activation Functions in Neural Networks" at <a href="https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing">MLSP, ENS Lyon</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Jan 2023</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I presented a poster on "Bayesian Inversion for Nonlinear Imaging Models Using Deep Generative Priors" at [ICMS, Edinburgh](https://icms.ac.uk/archive/workshop/interfacing-bayesian-statistics-machine-learning-applied-analysis-and-blind-and-semi-blind-imaging-inverse-problems/).</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I presented a poster on "Bayesian Inversion for Nonlinear Imaging Models Using Deep Generative Priors" at <a href="https://icms.ac.uk/archive/workshop/interfacing-bayesian-statistics-machine-learning-applied-analysis-and-blind-and-semi-blind-imaging-inverse-problems/">ICMS, Edinburgh</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Sep 2022</strong></td>
@@ -42,16 +42,16 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>June 2022</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I attended the [IEEE EMBS-SPS](https://conferences.imt-atlantique.fr/ieeess/) summer school on Biomedical Imaging.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I attended the <a href="https://conferences.imt-atlantique.fr/ieeess/">IEEE EMBS-SPS</a> summer school on Biomedical Imaging.</td>
       </tr>
       <tr>
         <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2022</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)" at the [SIAM Conference on Imaging Science (IS22)](https://www.siam.org/conferences-events/past-event-archive/is22/).</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)" at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2022</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on "Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks" at the [SIAM Conference on Imaging Science (IS22)](https://www.siam.org/conferences-events/past-event-archive/is22/).</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on "Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks" at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Sep 2019</strong></td>
