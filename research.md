@@ -56,9 +56,14 @@ My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on t
 
 <h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Talks</h3>
 
-* ISBI
-  Tutorial
-  IEEE
+* [Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks](/assets/ISBI_2023_tutorial.pdf)
+  Tutorial, IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Republic of Colombia, April 2023
 
-* ICASSP
-* 2019
+* [Learning Activation Functions in Neural Networks](/assets/Deepsplines_ENSLyon.pdf)
+  Machine Learning and Signal Processing (MLSP) Seminar, ENS Lyon, March 2023
+
+* [Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)](/assets/CryoGAN.pdf)
+  SIAM Conference on Imaging Science, Virtual, March 2022
+
+* [Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks](/assets/SSP_SIAM.pdf)
+  Minitutorial, SIAM Conference on Imaging Science, Virtual, March 2022
