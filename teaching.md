@@ -8,17 +8,19 @@ permalink: /teaching/
   .post-header { display: none; }
 </style>
 
-<h3 style="font-weight: bold; margin-bottom: 10px;">Teaching Assistant</h3>
+I have served as a Teaching Assistant for signal and image processing courses at EPFL and IIT Bombay. Also, during my PhD, I have supervised several student projects (Master's theses, internships, and semester projects) related to the topics of deep learning and computational imaging.
+
+<h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px">Teaching Assistant</h3>
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">EPFL</h4>
-* Image Processing I (Fall 2018-2021)
+* Image Processing I
 
-* Image Processing II (Spring 2019-2021)
+* Image Processing II
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">IIT Bombay</h4>
-* Advanced Topics in Signal Processing (Fall 2017)<br>
+* Advanced Topics in Signal Processing<br>
 
-* Digital Signal Processing (Spring 2018)
+* Digital Signal Processing
 
 <h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Project Supervision</h3>
 
