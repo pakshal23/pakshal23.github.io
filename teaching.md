@@ -24,7 +24,7 @@ I have served as a Teaching Assistant for signal and image processing courses at
 
 <h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Project Supervision</h3>
 
-<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Master's Thesis</h4>
+<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Master's Theses</h4>
 * Maxime Jotterand<br>
   Learning 2D Activation Functions for Complex-Valued Neural Networks
   
@@ -37,7 +37,7 @@ I have served as a Teaching Assistant for signal and image processing courses at
 * Yuxuan Long<br>
   Computational Methods for Dynamic Fourier Ptychography
 
-<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Internship</h4>
+<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Internships</h4>
 
 * Ayoub El Biari<br>
   Characterization of Random Neural Networks As Stochastic Processes
