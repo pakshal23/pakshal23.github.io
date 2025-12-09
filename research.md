@@ -26,17 +26,21 @@ My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on t
 
 * <b>P. Bohra</b>, P. del Aguila Pla, J.-F. Giovannelli, M. Unser, [A Statistical Framework to Investigate the Optimality of Signal-Reconstruction Methods](https://bigwww.epfl.ch/publications/bohra2302.html), IEEE Transactions on Signal Processing, vol. 71, pp. 2043–2055, June 1, 2023.
 
-* <b>P. Bohra</b>, T.-a. Pham, Y. Long, J. Yoo, M. Unser, [Dynamic Fourier Ptychography with Deep Spatiotemporal Priors](https://bigwww.epfl.ch/publications/bohra2301.html), Inverse Problems, vol. 39, no. 6, paper no. 064005, June 2023.
+* <b>P. Bohra</b>\*, T.-a. Pham\*, Y. Long, J. Yoo, M. Unser, [Dynamic Fourier Ptychography with Deep Spatiotemporal Priors](https://bigwww.epfl.ch/publications/bohra2301.html), Inverse Problems, vol. 39, no. 6, paper no. 064005, June 2023.
 
 * <b>P. Bohra</b>, T.-a. Pham, J. Dong, M. Unser, [Bayesian Inversion for Nonlinear Imaging Models Using Deep Generative Priors](https://bigwww.epfl.ch/publications/bohra2201.html), IEEE Transactions on Computational Imaging, vol. 8, pp. 1237–1249, 2022.
 
-* <b>P. Bohra</b>, J. Campos, H. Gupta, S. Aziznejad, M. Unser, [Learning Activation Functions in Deep (Spline) Neural Networks](https://bigwww.epfl.ch/publications/bohra2003.html), IEEE Open Journal of Signal Processing, vol. 1, pp. 295–309, November 19, 2020.
+* <b>P. Bohra</b>\*, J. Campos\*, H. Gupta, S. Aziznejad, M. Unser, [Learning Activation Functions in Deep (Spline) Neural Networks](https://bigwww.epfl.ch/publications/bohra2003.html), IEEE Open Journal of Signal Processing, vol. 1, pp. 295–309, November 19, 2020.
 
 * <b>P. Bohra</b>, M. Unser, [Continuous-Domain Signal Reconstruction Using Lp-Norm Regularization](https://bigwww.epfl.ch/publications/bohra2002.html), IEEE Transactions on Signal Processing, vol. 68, pp. 4543–4554, August 3, 2020.
+
+* <b>P. Bohra</b>\*, D. Garg\*, K. S. Gurumoorthy, A. Rajwade, [Variance Stabilization Based Compressive Inversion under Poisson or Poisson-Gaussian Noise with Analytical Bounds](https://iopscience.iop.org/article/10.1088/1361-6420/ab2aa7/meta), Inverse Problems, vol. 35, no. 10, October 2019.
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 15px;">Conference Papers</h4>
 
 * <b>P. Bohra</b>, M. Unser, [Computation of "Best" Interpolants in the Lp Sense](https://bigwww.epfl.ch/publications/bohra2001.html), Proceedings of the Forty-Fifth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'20), Barcelona, Kingdom of Spain, May 4-8, 2020, pp. 5505–5509.
+
+* <b>P. Bohra</b>, A. Rajwade, [Poisson Low-Rank Matrix Recovery Using the Anscombe Transform](https://ieeexplore.ieee.org/abstract/document/8646370), IEEE Global Conference on Signal and Information Processing (GlobalSIP), November 2018, pp. 141-145.
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 15px;">Workshop Papers</h4>
 
