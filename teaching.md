@@ -1,3 +1,13 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
+
+<style>
+  .post-header { display: none; }
+</style>
+
 <h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Teaching Assistant</h3>
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">EPFL</h4>
