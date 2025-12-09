@@ -17,7 +17,7 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
   <table style="width: 100%; border-collapse: collapse; border: 1px solid #e1e4e8; margin: 0;">
     <tbody>
       <tr>
-        <td style="width: 130px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
+        <td style="width: 110px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
         <td style="padding: 6px 8px 6px 0; border: none;">I joined Distran as a Computational Software Engineer.</td>
       </tr>
       <tr>
