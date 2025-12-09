@@ -18,11 +18,11 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
     <tbody>
       <tr>
         <td style="width: 100px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I joined Distran as a Computational Software Engineer.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I joined <a href="https://distran.swiss/en/home/">Distran</a> as a Computational Software Engineer.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Jun 2024</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I successfully defended my PhD thesis.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I successfully defended my <a href="https://bigwww.epfl.ch/publications/bohra2401.html">PhD thesis</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Apr 2023</strong></td>
@@ -58,7 +58,7 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Sep 2018</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I joined Prof. Michael Unser's Biomedical Imaging Group at EPFL for my PhD.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I joined Prof. Michael Unser's <a href="https://bigwww.epfl.ch/">Biomedical Imaging Group</a> at EPFL for my PhD.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2018</strong></td>
