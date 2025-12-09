@@ -17,7 +17,7 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
   <table style="width: 100%; border-collapse: collapse; border: 1px solid #e1e4e8; margin: 0;">
     <tbody>
       <tr>
-        <td style="width: 110px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
+        <td style="width: 100px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
         <td style="padding: 6px 8px 6px 0; border: none;">I joined Distran as a Computational Software Engineer.</td>
       </tr>
       <tr>
@@ -26,11 +26,11 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Apr 2023</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on "Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks" at <a href="https://biomedicalimaging.org/2023/">IEEE ISBI 2023</a>.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on <a href="https://drive.google.com/file/d/18gu3YnOOftegnvr-0Tb8l4zAKwWiq5-P/view">Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks</a> at <a href="https://biomedicalimaging.org/2023/">IEEE ISBI 2023</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2023</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Learning Activation Functions in Neural Networks" at <a href="https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing">MLSP, ENS Lyon</a>.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled <a href="https://drive.google.com/file/d/1eaQHP517dZVPtqwIG8nnC4vArvyKosep/view">Learning Activation Functions in Neural Networks</a> at <a href="https://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing">MLSP, ENS Lyon</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Jan 2023</strong></td>
@@ -41,16 +41,16 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
         <td style="padding: 6px 8px 6px 0; border: none;">I attended the CUSO-MLSTATS summer school on Statistical Machine Learning.</td>
       </tr>
       <tr>
-        <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>June 2022</strong></td>
+        <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Jun 2022</strong></td>
         <td style="padding: 6px 8px 6px 0; border: none;">I attended the <a href="https://conferences.imt-atlantique.fr/ieeess/">IEEE EMBS-SPS</a> summer school on Biomedical Imaging.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2022</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)" at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled <a href="https://drive.google.com/file/d/1Kdr0fHJTnHbdcEg3PjgVpGKdtmAf62DN/view">Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)</a> at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2022</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on "Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks" at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I presented a tutorial on <a href="https://drive.google.com/file/d/1GlklWostumSOvj2Q6OS8thM71yLFrGih/view">Bayesian Image Reconstruction: From Sparsity-Based Methods to Deep Neural Networks</a> at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Sep 2019</strong></td>
