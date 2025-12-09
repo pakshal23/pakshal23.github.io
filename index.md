@@ -17,7 +17,7 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
   <table style="width: 100%; border-collapse: collapse; border: 1px solid #e1e4e8; margin: 0;">
     <tbody>
       <tr>
-        <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
+        <td style="width: 130px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
         <td style="padding: 6px 8px 6px 0; border: none;">I joined Distran as a Computational Software Engineer.</td>
       </tr>
       <tr>
@@ -45,7 +45,6 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
         <td style="padding: 6px 8px 6px 0; border: none;">I attended the <a href="https://conferences.imt-atlantique.fr/ieeess/">IEEE EMBS-SPS</a> summer school on Biomedical Imaging.</td>
       </tr>
       <tr>
-        <tr>
         <td style="vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Mar 2022</strong></td>
         <td style="padding: 6px 8px 6px 0; border: none;">I gave a talk titled "Opportunities and Challenges for Generative Adversarial Reconstruction by Distribution Matching (CryoGAN)" at the <a href="https://www.siam.org/conferences-events/past-event-archive/is22/">SIAM Conference on Imaging Science (IS22)</a>.</td>
       </tr>
