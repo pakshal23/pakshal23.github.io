@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 ---
 My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on the development of ML methods based on novel robust neural network architectures and deep generative models for computational imaging (e.g., MRI, CT, Diffraction Tomography, Fourier Ptychography). Now, at Distran, I am involved in research related to the development of new ML and signal processing methods to improve the performance and scope of their acoustic camera. Also, these days, outside of work, I am interested in learning more about flow/diffusion models as well as multimodal model architectures.
@@ -29,15 +29,15 @@ My [PhD thesis](https://bigwww.epfl.ch/publications/bohra2401.html) focused on t
 
 * <b>P. Bohra</b>, M. Unser, [Continuous-Domain Signal Reconstruction Using Lp-Norm Regularization](https://bigwww.epfl.ch/publications/bohra2002.html), IEEE Transactions on Signal Processing, vol. 68, pp. 4543–4554, August 3, 2020.
 
-<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Conference Papers</h4>
+<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 15px;">Conference Papers</h4>
 
 * <b>P. Bohra</b>, M. Unser, [Computation of "Best" Interpolants in the Lp Sense](https://bigwww.epfl.ch/publications/bohra2001.html), Proceedings of the Forty-Fifth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'20), Barcelona, Kingdom of Spain, May 4-8, 2020, pp. 5505–5509.
 
-<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Workshop Papers</h4>
+<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 15px;">Workshop Papers</h4>
 
 * <b>P. Bohra</b>, D. Perdios, A. Goujon, S. Emery, M. Unser, [Learning Lipschitz-Controlled Activation Functions in Neural Networks for Plug-and-Play Image Reconstruction Methods](https://bigwww.epfl.ch/publications/bohra2101.html), Proceedings of the Third Workshop on Deep Learning and Inverse Problems (NeurIPS'21), Virtual, December 13, 2021, pp. 1–9.
 
-<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">Conference Abstracts</h4>
+<h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 15px;">Conference Abstracts</h4>
 
 * M. Unser, <b>P. Bohra</b>, [Bayesian Inference for Inverse Problems: From Sparsity-Based Methods to Deep Neural Networks](https://bigwww.epfl.ch/publications/unser2303.html), Tutorial, Twentieth IEEE International Symposium on Biomedical Imaging (ISBI'23), Cartagena de Indias, Republic of Colombia, April 18-21, 2023.
 
