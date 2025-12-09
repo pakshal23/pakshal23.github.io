@@ -8,7 +8,7 @@ permalink: /teaching/
   .post-header { display: none; }
 </style>
 
-<h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Teaching Assistant</h3>
+<h3 style="font-weight: bold; margin-bottom: 10px;">Teaching Assistant</h3>
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">EPFL</h4>
 * Image Processing I (Fall 2018-2021)
@@ -16,9 +16,9 @@ permalink: /teaching/
 * Image Processing II (Spring 2019-2021)
 
 <h4 style="font-weight: bold; margin-bottom: 10px; margin-top: 10px;">IIT Bombay</h4>
-* Image Processing I (Fall 2018-2021)<br>
+* Advanced Topics in Signal Processing (Fall 2017)<br>
 
-* Image Processing II (Spring 2019-2021)
+* Digital Signal Processing (Spring 2018)
 
 <h3 style="font-weight: bold; margin-bottom: 10px; margin-top: 30px;">Project Supervision</h3>
 
