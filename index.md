@@ -18,7 +18,7 @@ I completed my PhD in Electrical Engineering in 2024 at [Ã‰cole Polytechnique FÃ
     <tbody>
       <tr>
         <td style="width: 100px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Jan 2026</strong></td>
-        <td style="padding: 6px 8px 6px 0; border: none;">I started a new role as ML Research Engineer at <a href="https://distran.swiss/en/home/">Distran</a>.</td>
+        <td style="padding: 6px 8px 6px 0; border: none;">I started a new role as an ML Research Engineer at <a href="https://distran.swiss/en/home/">Distran</a>.</td>
       </tr>
       <tr>
         <td style="width: 100px; vertical-align: top; padding: 6px 8px 6px 8px; border: none;"><strong>Aug 2024</strong></td>
