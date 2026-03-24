@@ -4,7 +4,7 @@ layout: home
 
 <img style="float: right; width: 25%; padding: 6px;" src=" {{ site.url }}/assets/images/profile.jpeg">
 
-I am a Machine Learning (ML) Research Engineer interested in building robust systems to solve real-world problems, and I enjoy the challenge of taking systems through the complete development cycle, from research to production. 
+I am a Machine Learning Research Engineer interested in building robust systems to solve real-world problems, and I enjoy the challenge of taking systems through the complete development cycle, from research to production. 
 
 Currently, I work at [Distran](https://distran.swiss/en/home/) in Zurich. My work focuses on the development of ML and signal processing pipelines for acoustic imaging and scene understanding, and their deployment on edge devices.
 
