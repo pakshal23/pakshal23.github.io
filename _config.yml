@@ -4,7 +4,13 @@ description: ""
 theme: minima
 markdown: kramdown
 
+permalink: /blog/:slug/
+
+kramdown:
+  math_engine: null
+
 header_pages:
   - cv.md
   - research.md
   - teaching.md
+  - blog.md

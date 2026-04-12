@@ -12,9 +12,6 @@ permalink: /blog/
     <h3>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </h3>
-    {%- if post.excerpt -%}
-      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-    {%- endif -%}
   </li>
   {%- endfor -%}
 </ul>
