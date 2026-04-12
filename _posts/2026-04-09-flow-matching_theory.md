@@ -217,7 +217,7 @@ I also found the links between flow matching and diffusion models to be quite in
 
 ## Applications to Inverse Problems
 
-*Note: In this section, we write $$p(\mathbf{x}_t \mid \mathbf{y})$$ instead of $$p_t(\mathbf{x} \mid \mathbf{y})$$, placing the time index on the variable rather than on $$p$$. This allows us to refer to distributions at multiple time points simultaneously.*
+*Note: In this section, I write $$p(\mathbf{x}_t \mid \mathbf{y})$$ instead of $$p_t(\mathbf{x} \mid \mathbf{y})$$, placing the time index on the variable rather than on $$p$$. This allows me to refer to distributions at multiple time points simultaneously.*
 
 ### Setting
 
