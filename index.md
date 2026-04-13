@@ -10,7 +10,7 @@ Currently, I work at [Distran](https://distran.swiss/en/home/) in Zurich. My wor
 
 I completed my PhD in Electrical Engineering in 2024 at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) under the supervision of [Prof. Michael Unser](https://bigwww.epfl.ch/unser/). My research was aimed at the development of novel deep learning architectures and algorithms for computational imaging. Before EPFL, I received my Bachelors and Masters dual degree in Electrical Engineering in 2018 from the [Indian Institute of Technology Bombay (IITB)](https://www.iitb.ac.in/).
 
-<p style="margin-top: 16px;">
+<p style="margin-top: 20px;">
   <a href="mailto:pakshalbohra@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="{{ site.url }}/assets/CV_Pakshal_Bohra.pdf">CV</a> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=lJVrRV4AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> &nbsp;·&nbsp;
