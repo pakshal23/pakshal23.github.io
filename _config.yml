@@ -1,14 +1,10 @@
 title: Pakshal Bohra
-description: "Pakshal Bohra. PhD from EPFL focused on deep learning for computational imaging. ML Research Engineer at Distran. Research interests include generative models, multimodal foundation models, neural network architectures."
-url: "https://pakshal23.github.io"
 baseurl: ""
+url: "https://pakshal23.github.io"
 
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
-markdown: kramdown
 
 permalink: /blog/:slug/
 
