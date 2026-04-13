@@ -1,13 +1,19 @@
 title: Pakshal Bohra
-description: ""
+description: "My personal website"
+url: "https://pakshal23.github.io"
+baseurl: ""
 
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 markdown: kramdown
 
 permalink: /blog/:slug/
 
 kramdown:
-  math_engine: null
+  math_engine: mathjax
 
 header_pages:
   - cv.md
